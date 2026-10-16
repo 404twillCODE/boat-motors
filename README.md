@@ -79,3 +79,8 @@ Code and original game assets are distributed under the [MIT license](LICENSE). 
 
 This project is not an official Minecraft product and is not approved by or associated with Mojang or Microsoft.
 
+
+## Publication status
+
+This private repository contains the complete beta release. The Modrinth draft remains unpublished. Modrinth's current Content Rules section 6.2 prohibits public projects primarily made from AI output and AI-generated project-page images. See RELEASE-STATUS.txt for the saved draft status and validation scope.
+

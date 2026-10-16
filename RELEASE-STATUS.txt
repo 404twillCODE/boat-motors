@@ -1,0 +1,38 @@
+BOAT MOTORS 2.0 - RELEASE STATUS
+Checked October 16, 2026
+
+PRIVATE GITHUB
+https://github.com/404twillCODE/boat-motors
+Source, 47 mod jars, crafting guides, logo, and compatibility results uploaded.
+
+BUILD AND VALIDATION
+47 jars cover 63 available combinations across 16 Minecraft versions and
+Fabric, Quilt, Forge, and NeoForge. Fabric and Quilt share jars.
+Forge 1.21.2 is unavailable upstream.
+All 63 isolated server startup and motor/fuel saving checks passed.
+Eleven gameplay tests passed on Fabric 26.3.
+Only Fabric 26.3 has had a visual client check during development.
+The other client renderers compile but still need in-game visual testing.
+This is a beta release.
+
+INSTALLED GAME BUILD
+The updated Fabric 26.3 jar with engine sounds, improved models, fuel,
+and dashboard is installed in the ChatGPT Mods profile.
+Restart Minecraft to load the update.
+
+MODRINTH - UNPUBLISHED, NOT READY TO SUBMIT
+https://modrinth.com/mod/boat-motors
+Saved: description, MIT license, Transportation category, AI disclosure,
+and Fabric/Quilt 26.3 beta version (JKC4z2qJ) with required Fabric API.
+The other 46 jars have NOT been uploaded to Modrinth.
+Gallery image upload was rejected as AI-generated.
+The draft currently has an AI-generated icon from the earlier setup.
+
+Publishing is blocked by Modrinth Content Rules section 6.2:
+- Project-page images may not be created or derived from generative AI.
+- Public projects may not be primarily or entirely AI output.
+This project was primarily created by an AI coding assistant, so it is
+not eligible for public publication under those current rules.
+Changing or disguising the artwork does not resolve the code restriction.
+No project review submission or public publication was performed.
+Rules checked: https://modrinth.com/legal/rules#generative-ai
