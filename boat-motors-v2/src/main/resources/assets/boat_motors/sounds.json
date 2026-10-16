@@ -1,0 +1,47 @@
+{
+  "engine_1": {
+    "subtitle": "subtitles.boat_motors.engine",
+    "sounds": [
+      {
+        "name": "boat_motors:engine_1",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "engine_2": {
+    "subtitle": "subtitles.boat_motors.engine",
+    "sounds": [
+      {
+        "name": "boat_motors:engine_2",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "engine_3": {
+    "subtitle": "subtitles.boat_motors.engine",
+    "sounds": [
+      {
+        "name": "boat_motors:engine_3",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "engine_4": {
+    "subtitle": "subtitles.boat_motors.engine",
+    "sounds": [
+      {
+        "name": "boat_motors:engine_4",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "engine_5": {
+    "subtitle": "subtitles.boat_motors.engine",
+    "sounds": [
+      {
+        "name": "boat_motors:engine_5",
+        "attenuation_distance": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1, "id": "boat_motors_test", "version": "1.0.0",
+  "name": "Boat Motors Tests", "environment": "*",
+  "entrypoints": {
+    "fabric-gametest": ["com.beeto.boatmotors.MotorTests"],
+    "fabric-client-gametest": ["com.beeto.boatmotors.MotorClientTest"]
+  },
+  "mixins": ["boat_motors.test.mixins.json"]
+}

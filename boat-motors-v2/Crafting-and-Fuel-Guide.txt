@@ -1,0 +1,73 @@
+BOAT MOTORS 2.0 - CRAFTING AND FUEL GUIDE
+
+Use a crafting table (3 by 3). Each pattern below lists the top,
+middle and bottom rows. A dot means leave that slot empty.
+
+I = iron ingot       C = copper ingot     R = redstone dust
+F = furnace          G = gold ingot       D = diamond
+A = amethyst shard   N = netherite ingot
+
+9.9 HP                 20 HP                  25 HP
+I R I                  I R I                  I R I
+C F C                  C F C                  G F G
+I . I                  I G I                  I R I
+
+50 HP                  100 HP
+G A G                  D N D
+D F D                  D F D
+G R G                  G R G
+
+Each motor recipe makes one motor. You do not need a smaller motor
+to craft a bigger one. The furnace in the center is a crafted furnace.
+
+EMPTY GAS CANS (makes 4; uses 7 iron ingots)
+. I I
+I . I
+I I I
+
+GAS CAN (makes 1 can containing 1 US gallon)
+Combine one EMPTY GAS CAN, one COAL, one SUGAR and one BLAZE POWDER
+anywhere in the crafting grid. Charcoal does not substitute for coal.
+To make more gas, reuse the returned empty can in this same recipe.
+
+GETTING INGREDIENTS
+Iron/copper/gold: mine their ores and smelt the raw metals.
+Redstone and diamonds: mine their ores with a suitable pickaxe.
+Furnace: eight cobblestone around an empty center slot.
+Amethyst shards: harvest fully grown amethyst clusters in a geode.
+Netherite ingot: craft four netherite scraps with four gold ingots.
+Coal: mine coal ore. Sugar: craft sugar cane into sugar.
+Blaze powder: craft a blaze rod from a Nether fortress blaze into powder.
+
+INSTALL, REFUEL AND DRIVE
+1. Place a boat, chest boat, bamboo raft or chest raft in water.
+2. Hold your motor and right-click the boat to attach it.
+3. Hold a gas can and right-click the boat to add gas. Repeat to fill.
+   New motors start empty. Unused gas remains in a partly used can;
+   a completely used can becomes an empty gas can.
+4. Board the boat. W accelerates, S brakes/reverses, A/D steer.
+5. The display above the hotbar shows speed in MPH, HP, tank gallons
+   and estimated miles per gallon. MPG changes with speed.
+6. When gas runs out you can still paddle normally.
+
+TANK SIZES
+9.9 HP: 2.5 gallons    20 HP: 4 gallons    25 HP: 5 gallons
+50 HP: 8 gallons      100 HP: 12 gallons
+
+REMOVE OR CHANGE MOTORS
+Sneak-right-click the boat with shears to remove its motor.
+Right-click with a different motor to replace the current motor.
+Remaining fuel stays with the returned motor.
+
+CREATIVE / QUICK TESTING (requires commands enabled)
+/give @s boat_motors:motor_9_9hp
+/give @s boat_motors:motor_20hp
+/give @s boat_motors:motor_25hp
+/give @s boat_motors:motor_50hp
+/give @s boat_motors:motor_100hp
+/give @s boat_motors:gas_can
+/give @s boat_motors:empty_gas_can
+
+The motors and cans also appear in the Tools & Utilities creative tab.
+The update is installed in the ChatGPT Mods profile. Save and fully
+restart Minecraft to load the updated jar.

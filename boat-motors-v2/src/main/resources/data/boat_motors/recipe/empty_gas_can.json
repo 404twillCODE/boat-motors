@@ -1,0 +1,16 @@
+{
+  "key": {
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "boat_motors:empty_gas_can",
+    "count": 4
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " II",
+    "I I",
+    "III"
+  ],
+  "category": "equipment"
+}

@@ -1,0 +1,1152 @@
+{
+  "project": "Boat Motors",
+  "version": "2.0.0",
+  "releaseChannel": "beta",
+  "files": [
+    {
+      "minecraft": "26.3",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-26.3-2.0.0.jar",
+      "bytes": 1707119,
+      "sha256": "978fd339b3be4b0ad153ca3227531c3ab29aba435fe83348d0d9385f6446a4e0",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "26.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "26.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.3",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-26.3-2.0.0.jar",
+      "bytes": 1706024,
+      "sha256": "ede21381add3dad08cb06df5be3073919d4b2d21b347e01cecdeb42fc107db03",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "26.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.3",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-26.3-2.0.0.jar",
+      "bytes": 1706987,
+      "sha256": "d1c2845dff02688c76babe61fd61955ee5ddf17d97e9ab8b2a8d6697d9fba7a4",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "26.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.2",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-26.2-2.0.0.jar",
+      "bytes": 1707169,
+      "sha256": "2c46aefdee81047de7ff6b7c5bf8e73b9e0d51c23a131b9c0f61ba0a61ef784a",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "26.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "26.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.2",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-26.2-2.0.0.jar",
+      "bytes": 1706058,
+      "sha256": "692fa591d043426a7b6dc5a8fa0c35bad67f2349b94c05f0aee13f7767d1d4c4",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "26.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.2",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-26.2-2.0.0.jar",
+      "bytes": 1707021,
+      "sha256": "b952ca32d2172a00da67d5b344404f1e1bb487e25a4e814a4ea674ca85b886b0",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "26.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1.2",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-26.1.2-2.0.0.jar",
+      "bytes": 1707183,
+      "sha256": "1e514b5ffcf4b127c23a02b0e7ef9254b4c23114664926efebb25c1aaf3015ba",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "26.1.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "26.1.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1.2",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-26.1.2-2.0.0.jar",
+      "bytes": 1706071,
+      "sha256": "7012503de577dd4553e0485b1d4b87da3fba05e1a69a59aa4d4121e42e12fe00",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "26.1.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1.2",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-26.1.2-2.0.0.jar",
+      "bytes": 1707033,
+      "sha256": "302a8c06c62b045f466d3590848a45cdc0feb11df5212fadbae241dfecd51042",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "26.1.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1.1",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-26.1.1-2.0.0.jar",
+      "bytes": 1707182,
+      "sha256": "868c95e1d00d67b2c87cd412e3afc1e26ababc3ea9291356c6c58a32c56f4c0a",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "26.1.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "26.1.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1.1",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-26.1.1-2.0.0.jar",
+      "bytes": 1706071,
+      "sha256": "70bff39a16dcbdd0d8371caa84f7d4de075e7310e29bc66bb5523750b76cfe3b",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "26.1.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1.1",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-26.1.1-2.0.0.jar",
+      "bytes": 1707033,
+      "sha256": "9ab0c5f253ea31db31b3e6595790beec6d36461c2b94005c5e58db8143a75193",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "26.1.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-26.1-2.0.0.jar",
+      "bytes": 1707180,
+      "sha256": "98706b5493bc4eb94dc81435576bf4e13284f10b1e6d78190e3fe85109b9ceb4",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "26.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "26.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-26.1-2.0.0.jar",
+      "bytes": 1706069,
+      "sha256": "be90bf0535eabf2d24231b67fdbafde6eb1cd23aa87b93b542e72a0163c5459d",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "26.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "26.1",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-26.1-2.0.0.jar",
+      "bytes": 1707031,
+      "sha256": "c634913a0926552ff4f40b59ea909ee19fcfd3b2f603f822214e23f708cbafff",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "26.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.11",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.11-2.0.0.jar",
+      "bytes": 1706698,
+      "sha256": "147762ec7b7d83b9fb9290435fe710c2f4b94409dd5618c5c4a050762d2850d7",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.11",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.11",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.11",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.11-2.0.0.jar",
+      "bytes": 1705995,
+      "sha256": "ad822e8892e7079e2a974cce99c6fd130323d83694d9097a4f7e502d5d43e7fb",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.11",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.11",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.11-2.0.0.jar",
+      "bytes": 1706958,
+      "sha256": "524d2a210d8191fbb101899948fe66a455e8df0c1b1a0cddaa3e3e20d9995479",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.11",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.10",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.10-2.0.0.jar",
+      "bytes": 1706692,
+      "sha256": "61018d1876b4f77b32c6b467944f9b97a0d713c73ea1713d4659b58f418965da",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.10",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.10",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.10",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.10-2.0.0.jar",
+      "bytes": 1705968,
+      "sha256": "a70b236aa4bf59625de8a780dd3e0d49745cc647cdc568326c4f15a37cc85d1c",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.10",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.10",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.10-2.0.0.jar",
+      "bytes": 1706930,
+      "sha256": "99d0e4a7854c33469d4416c3322d9b2820f1d47626dc4985ea8db911c24fd056",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.10",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.9",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.9-2.0.0.jar",
+      "bytes": 1706691,
+      "sha256": "7b8f8e415e9b8f2b1ccfd79a056340185cfe2c075bdf66d0691ecb135e59b3a6",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.9",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.9",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.9",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.9-2.0.0.jar",
+      "bytes": 1705969,
+      "sha256": "c288d0f7504922ba7b7e975fbdc1d89dab4a9c951a84b54c12cae54645929c05",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.9",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 1
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.9",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.9-2.0.0.jar",
+      "bytes": 1706931,
+      "sha256": "b59270f131a393caf1744e5f1fd37028ce3f44711db2436ac1456da4b2da484b",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.9",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.8",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.8-2.0.0.jar",
+      "bytes": 1706649,
+      "sha256": "906c73c2fcf2dcdb6500df15cafc9cd60af5b7fd553b4796090c7420e87564a2",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.8",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.8",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.8",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.8-2.0.0.jar",
+      "bytes": 1705908,
+      "sha256": "7d63a2405bcd39dc6d8c92f3a7dfb3d0abba4f17d5e2b658829a9c44e2316897",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.8",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.8",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.8-2.0.0.jar",
+      "bytes": 1706893,
+      "sha256": "9cf6cadeec86e78bf0b46d74455ecbde55e2ef0418a3cff3911341c04a774dbf",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.8",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.7",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.7-2.0.0.jar",
+      "bytes": 1706649,
+      "sha256": "409c1b058f4d4e1c3b50e376f75947a31cf0d21d742b0b07826228b1b1a3c004",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.7",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.7",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.7",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.7-2.0.0.jar",
+      "bytes": 1705908,
+      "sha256": "a766b3c590e5137fae2932fe04532639ed404269c9a79068df178cb7909bdc3d",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.7",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.7",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.7-2.0.0.jar",
+      "bytes": 1706893,
+      "sha256": "bd76540f067d53533e87695f85f7c259d737e2faf1460b84d0edad6b628a3cb1",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.7",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.6",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.6-2.0.0.jar",
+      "bytes": 1706649,
+      "sha256": "a413072d965bf6abb87b93e17e4d5bfd4d5cefe892819bbecc43f1a7ea0bf6eb",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.6",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.6",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.6",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.6-2.0.0.jar",
+      "bytes": 1705908,
+      "sha256": "1c52a6b91e84083fd753c98f6d96ce6352ed4fb119fca60fe0b90246ed3e83ad",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.6",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.6",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.6-2.0.0.jar",
+      "bytes": 1705815,
+      "sha256": "73abea10b74bbfa7f29bcbbbecc57c61212530a1808b15ebddced7d7962c0a1e",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.6",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.5",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.5-2.0.0.jar",
+      "bytes": 1706564,
+      "sha256": "e856c21f70153a81ac3dbacfd632020ffd27f3abeda8227698edf625ee3b355d",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.5",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.5",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.5",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.5-2.0.0.jar",
+      "bytes": 1705779,
+      "sha256": "f74ddcea9f81caa800c359a21bdf4849f52c7ca39b186134d4c0539ef2d32980",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.5",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.5",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.5-2.0.0.jar",
+      "bytes": 1705721,
+      "sha256": "2d31908c7b524f1f0efebcefb3691b37733d3b584e618e13d52bd188e6753c14",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.5",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.4",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.4-2.0.0.jar",
+      "bytes": 1706666,
+      "sha256": "01a1f525ab107540482810b1c35945b6620ed8672e13e182bb7d84bbcd723e28",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.4",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.4",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.4",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.4-2.0.0.jar",
+      "bytes": 1705879,
+      "sha256": "e4f3c3782c3045a58feafabb7857727b985092d886ea67e6187f610cd747fbd0",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.4",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.4",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.4-2.0.0.jar",
+      "bytes": 1705821,
+      "sha256": "6e08286b182b98bd9d7b80e1d80eb4b71039327277eb398a9637adcb19444f8d",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.4",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.3",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.3-2.0.0.jar",
+      "bytes": 1706657,
+      "sha256": "b1374dddbfe8064b04762f30ece293846a40732b3a96104ea5ca0d18e43111c9",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.3",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.3-2.0.0.jar",
+      "bytes": 1705840,
+      "sha256": "aeba81517a00f4e3eef164d17edbbb2fc5154c4110fda9450397b2a71e0f06b5",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.3",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.3-2.0.0.jar",
+      "bytes": 1705783,
+      "sha256": "14dfb99efe4ab2111b749e90944d30ef5e8138d58fe74ad34436f5fcfa48cf40",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.3",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.2",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.2-2.0.0.jar",
+      "bytes": 1706656,
+      "sha256": "3aa9473b621397a9446ff2aa3cc17d6b839a2f0f0380b8c9f0df3ed069cca123",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.2",
+      "loaders": [
+        "forge"
+      ],
+      "available": false,
+      "reason": "No official Forge release exists for Minecraft 1.21.2."
+    },
+    {
+      "minecraft": "1.21.2",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.2-2.0.0.jar",
+      "bytes": 1705781,
+      "sha256": "846bdaaa2add0f339903b688220277f36a4dbc7dfdf85894fe0930a1bdd81545",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.2",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.1",
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "available": true,
+      "file": "mods/Fabric-Quilt/boat-motors-fabric-1.21.1-2.0.0.jar",
+      "bytes": 1705180,
+      "sha256": "314274527c6d5248aa2e7d1c7dfbfbfca90523180f870f52b169746e0d38ac6b",
+      "serverValidation": {
+        "fabric": {
+          "loader": "fabric",
+          "minecraft": "1.21.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        },
+        "quilt": {
+          "loader": "quilt",
+          "minecraft": "1.21.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.1",
+      "loaders": [
+        "forge"
+      ],
+      "available": true,
+      "file": "mods/Forge/boat-motors-forge-1.21.1-2.0.0.jar",
+      "bytes": 1704533,
+      "sha256": "a02897cdc7bc249297b2f6b395bbf0276ca35e0e18c5f58521f995a10770292f",
+      "serverValidation": {
+        "forge": {
+          "loader": "forge",
+          "minecraft": "1.21.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    },
+    {
+      "minecraft": "1.21.1",
+      "loaders": [
+        "neoforge"
+      ],
+      "available": true,
+      "file": "mods/NeoForge/boat-motors-neoforge-1.21.1-2.0.0.jar",
+      "bytes": 1704476,
+      "sha256": "2e9e66643515f230cca9c29d56b26d1e9169d8934655b0d032be9cad6f1a8561",
+      "serverValidation": {
+        "neoforge": {
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "startup": true,
+          "motorPersistence": true,
+          "success": true,
+          "exitCode": 0
+        }
+      },
+      "clientValidation": "Fabric 26.3 visually checked during development; other client renderers compiled and adapted to their version APIs."
+    }
+  ],
+  "notes": [
+    "Use exactly one jar matching Minecraft version and loader.",
+    "Fabric and Quilt require matching Fabric API. Forge and NeoForge do not.",
+    "Java 25 for Minecraft 26.x; Java 21 or newer for 1.21.x.",
+    "Forge 1.21.2 is unavailable upstream."
+  ]
+}

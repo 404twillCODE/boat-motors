@@ -1,0 +1,20 @@
+{
+  "key": {
+    "R": "minecraft:redstone",
+    "N": "minecraft:netherite_ingot",
+    "D": "minecraft:diamond",
+    "F": "minecraft:furnace",
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "boat_motors:motor_100hp",
+    "count": 1
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DND",
+    "DFD",
+    "GRG"
+  ],
+  "category": "equipment"
+}

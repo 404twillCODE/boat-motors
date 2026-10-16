@@ -1,0 +1,4 @@
+{
+  "required": true, "package": "com.beeto.boatmotors.testmixin",
+  "compatibilityLevel": "JAVA_25", "mixins": ["BoatControlInvoker"]
+}

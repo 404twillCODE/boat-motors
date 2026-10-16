@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.beeto.boatmotors.mixin.client",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["BoatRenderStateMixin", "BoatRendererMixin", "DashboardMixin", "BoatSoundMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

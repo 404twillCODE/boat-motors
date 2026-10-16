@@ -1,0 +1,14 @@
+{
+  "result": {
+    "id": "boat_motors:gas_can",
+    "count": 1
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "boat_motors:empty_gas_can",
+    "minecraft:coal",
+    "minecraft:sugar",
+    "minecraft:blaze_powder"
+  ],
+  "category": "equipment"
+}

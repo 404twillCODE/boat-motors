@@ -1,0 +1,12 @@
+{
+  "item.boat_motors.empty_gas_can": "Empty Gas Can",
+  "message.boat_motors.installed": "%s HP motor installed! Right-click with a gas can to refuel. W: throttle, S: brake/reverse.",
+  "item.boat_motors.motor_50hp": "50 HP Outboard Motor",
+  "message.boat_motors.removed": "Motor removed. Remaining gas stays with the motor.",
+  "item.boat_motors.gas_can": "Gas Can (1 gallon)",
+  "item.boat_motors.motor_100hp": "100 HP Outboard Motor",
+  "item.boat_motors.motor_9_9hp": "9.9 HP Outboard Motor",
+  "item.boat_motors.motor_25hp": "25 HP Outboard Motor",
+  "item.boat_motors.motor_20hp": "20 HP Outboard Motor",
+  "subtitles.boat_motors.engine": "Boat motor running"
+}

@@ -1,0 +1,11 @@
+**/.gradle/
+**/build/
+**/run/
+**/runs/
+boat-ports/
+gradle-home/
+jdk25/
+python-audio/
+*.log
+.idea/
+.vscode/

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "boat_motors:item/gas_can"
+  }
+}

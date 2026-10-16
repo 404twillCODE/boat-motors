@@ -1,0 +1,114 @@
+[
+  {
+    "minecraft": "26.3",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "66.0.12",
+    "neoforge": "26.3.0.84"
+  },
+  {
+    "minecraft": "26.2",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "65.1.5",
+    "neoforge": "26.2.0.93"
+  },
+  {
+    "minecraft": "26.1.2",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "64.1.5",
+    "neoforge": "26.1.2.122"
+  },
+  {
+    "minecraft": "26.1.1",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "63.0.2",
+    "neoforge": "26.1.1.15-beta"
+  },
+  {
+    "minecraft": "26.1",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "62.0.9",
+    "neoforge": "26.1.0.19-beta"
+  },
+  {
+    "minecraft": "1.21.11",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "61.2.4",
+    "neoforge": "21.11.48"
+  },
+  {
+    "minecraft": "1.21.10",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "60.1.18",
+    "neoforge": "21.10.64"
+  },
+  {
+    "minecraft": "1.21.9",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "59.0.5",
+    "neoforge": "21.9.16-beta"
+  },
+  {
+    "minecraft": "1.21.8",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "58.1.26",
+    "neoforge": "21.8.57"
+  },
+  {
+    "minecraft": "1.21.7",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "57.0.3",
+    "neoforge": "21.7.25-beta"
+  },
+  {
+    "minecraft": "1.21.6",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "56.0.9",
+    "neoforge": "21.6.20-beta"
+  },
+  {
+    "minecraft": "1.21.5",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "55.1.18",
+    "neoforge": "21.5.101"
+  },
+  {
+    "minecraft": "1.21.4",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "54.1.22",
+    "neoforge": "21.4.161"
+  },
+  {
+    "minecraft": "1.21.3",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "53.1.16",
+    "neoforge": "21.3.100"
+  },
+  {
+    "minecraft": "1.21.2",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": null,
+    "neoforge": "21.2.1-beta"
+  },
+  {
+    "minecraft": "1.21.1",
+    "fabric": true,
+    "quiltMetadata": true,
+    "forge": "52.1.20",
+    "neoforge": "21.1.262"
+  }
+]
